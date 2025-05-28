@@ -850,3 +850,4 @@
 2025-01-12 20:02:42 fix typo in code
 2025-03-14 06:02:00 patch memory leak
 2025-11-08 23:31:08 fix edge case
+2025-05-28 07:42:26 add helper function
