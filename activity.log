@@ -774,3 +774,4 @@
 2025-12-02 00:39:19 refactor code
 2025-08-06 06:01:14 cleanup dependencies
 2025-07-02 19:13:57 add unit tests
+2025-06-30 00:40:36 improve logging format
