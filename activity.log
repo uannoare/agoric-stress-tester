@@ -190,3 +190,4 @@
 2025-08-02 17:13:58 update deployment script
 2025-03-10 05:25:37 fix warnings
 2025-10-23 12:46:10 refactor tests
+2025-07-31 10:51:53 patch memory leak
