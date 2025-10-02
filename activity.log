@@ -360,3 +360,4 @@
 2025-08-25 11:05:31 update README
 2025-07-14 22:13:41 fix config bug
 2025-11-23 18:33:07 change configuration
+2025-10-02 17:36:51 patch memory leak
